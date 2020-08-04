@@ -10,6 +10,8 @@
     "test": "cross-env NODE_ENV=test jest"
   },
   "dependencies": {
+    "add": "^2.0.6",
+    "class-transformer": "^0.2.3",
     "cors": "^2.8.5",
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
@@ -17,7 +19,8 @@
     "pg": "^8.1.0",
     "reflect-metadata": "^0.1.10",
     "tsyringe": "^4.2.0",
-    "typeorm": "0.2.24"
+    "typeorm": "0.2.24",
+    "yarn": "^1.22.4"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
